@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/inderjeet.userlist.github.io/static/css/main.b61d0e52.css",
+    "main.js": "/inderjeet.userlist.github.io/static/js/main.fce9bda6.js",
+    "static/js/787.c28102aa.chunk.js": "/inderjeet.userlist.github.io/static/js/787.c28102aa.chunk.js",
+    "index.html": "/inderjeet.userlist.github.io/index.html",
+    "main.b61d0e52.css.map": "/inderjeet.userlist.github.io/static/css/main.b61d0e52.css.map",
+    "main.fce9bda6.js.map": "/inderjeet.userlist.github.io/static/js/main.fce9bda6.js.map",
+    "787.c28102aa.chunk.js.map": "/inderjeet.userlist.github.io/static/js/787.c28102aa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b61d0e52.css",
+    "static/js/main.fce9bda6.js"
+  ]
+}
